@@ -4,7 +4,7 @@ library("ggplot2")
 library("lubridate")
 library("tidyr")
 library("ggmap")
-
+                 
 # Load in your data
 
 # Compute some values of interest and store them in variables for the report
